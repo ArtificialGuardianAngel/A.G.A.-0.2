@@ -1,1 +1,1 @@
-# AGA Hackaton #2
+# AGA Hackathon #2
